@@ -43,7 +43,7 @@ python manage.py migrate
 ### 5. Start the server
 python manage.py runserver
 
-Open Swagger docs at 👉 http://127.0.0.1:8000/swagger/
+Open Swagger docs 
 
 ---
 
